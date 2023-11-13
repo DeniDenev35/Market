@@ -1,0 +1,16 @@
+#main-nav a{
+	color:inherit;
+	border-radius:0
+}
+#main-nav a:hover,
+#main-nav .current_page_item>a,
+#main-nav .current-menu-item>a{
+	color:var(--theme_accent)
+}
+.header-boxed-layout .search-button .tf_fa, .header-logo-left .search-button .tf_fa{
+	padding:1.06em .8em;
+	font-size: 1.3em;
+}
+.top-icon-wrap{
+	padding-top:3em
+}

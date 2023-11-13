@@ -1,0 +1,20 @@
+.sidemenu{
+	background-color:#191061;
+	color:#ccc
+}
+#main-nav a{
+	color:inherit;
+	border-radius:0
+}
+#main-nav a:hover,
+#main-nav .current_page_item>a,
+#main-nav .current-menu-item>a{
+	color:var(--theme_accent)
+}
+.header-logo-left #main-nav{
+	float:none;
+	margin-top:1.7em
+}
+.header-logo-left .header-icons{
+	float:none
+}

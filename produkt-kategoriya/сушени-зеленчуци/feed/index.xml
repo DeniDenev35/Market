@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Сушени зеленчуци &#8211; KolMarShop</title>
+	<atom:link href="https://denidenev35.github.io/Market/produkt-kategoriya/%D1%81%D1%83%D1%88%D0%B5%D0%BD%D0%B8-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%87%D1%83%D1%86%D0%B8/feed/" rel="self" type="application/rss+xml" />
+	<link>https://denidenev35.github.io/Market</link>
+	<description>Магазин за домашно направена зимнина</description>
+	<lastBuildDate>Mon, 13 Nov 2023 10:00:56 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Сушени чушки</title>
+		<link>https://denidenev35.github.io/Market/produkt/%d1%81%d1%83%d1%88%d0%b5%d0%bd%d0%b8-%d1%87%d1%83%d1%88%d0%ba%d0%b8/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 13 Nov 2023 09:56:37 +0000</pubDate>
+				<guid isPermaLink="false">https://denidenev35.github.io/Market/?post_type=product#038;p=137</guid>
+
+					<description><![CDATA[<p><img data-tf-not-load="1" fetchpriority="high" loading="auto" decoding="sync" width="800" height="800" src="https://denidenev35.github.io/Market/wp-content/uploads/2023/11/suseni.jpeg" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" /></p>Открийте новите нюанси във вкуса с нашите изсушени червени пиперки - израз на сладост и аромат, готови да обогатят всяко ястие. Съхранете вкуса на свежестта през цялата година с нашите сушени червени пиперки.]]></description>
+										<content:encoded><![CDATA[<p><img data-tf-not-load="1" width="800" height="800" src="https://denidenev35.github.io/Market/wp-content/uploads/2023/11/suseni.jpeg" class="attachment-full size-full wp-post-image" alt="" decoding="async" /></p><p>Открийте уникалният вкус на нашите изсушени червени пиперки &#8211; съчетание от сладост и аромат, запазени в пълна вкусова интензивност. Нашият иновативен метод на сушене ги прави идеални за бързо и лесно включване в различни рецепти. Насладете се на безупречния аромат и вкус през цялата година с нашите сушени червени пиперки &#8211; винаги свежи и готови за употреба.</p>
+<!--themify_builder_content-->
+<div id="themify_builder_content-137" data-postid="137" class="themify_builder_content themify_builder_content-137 themify_builder tf_clear">
+    </div>
+<!--/themify_builder_content-->
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
